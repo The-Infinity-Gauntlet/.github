@@ -101,7 +101,7 @@ Descreva o que precisa ser feito ou corrigido, em detalhes de maneira clara.
 
 ---
 
-## Utilização de Pull Requests
+## 🚀 Utilização de Pull Requests
 
 ### Título do Pull Request
 
